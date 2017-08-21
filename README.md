@@ -1,5 +1,5 @@
 # simple-page
 
-Link to live Site https://anjanshrivastav.github.io/simple-page/
+Link to live site https://anjanshrivastav.github.io/simple-page/
 
-All the content is viewable publicly
+The content is publicly viewable
